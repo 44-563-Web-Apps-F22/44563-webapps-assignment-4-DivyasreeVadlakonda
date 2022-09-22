@@ -52,10 +52,10 @@
     background-color: violet;
   }
   p.WOMEN:hover {
-    text-decoration-line: overline;
     font-family: 'Times New Roman';
     text-align: left;
-    font-size: 6px 9px 13px red;
+    font-size: 17px;
+    box-shadow: 6px 9px 13px red;
     color: black;
     background-color: royalblue;
     
@@ -65,7 +65,8 @@
     text-decoration-line: overline;
     font-family: 'Times New Roman';
     text-align: left;
-    font-size: 6px 9px 13px red;
+    font-size: 17px;
+    box-shadow : 6px 9px 13px red;
     color: black;
     background-color: cyan;
 
@@ -95,4 +96,39 @@
     color: brown;
     text-align: left;
     
+  }
+  table,th,td
+  {
+    border:2px solid violet;
+  }
+  table
+  {
+    border-collapse:collapse;
+    width:20%;
+  }
+  td
+  {
+    height:40px;
+  }
+  tr
+  {
+    background-color: burlywood;
+    color:white;
+  }
+  th
+  {
+    background-color: royalblue;
+    color:black;
+  } 
+  tr:hover {
+    background-color: red;
+  }
+  td:nth-child(2){
+  background-color: greenyellow;
+}
+th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
   }
