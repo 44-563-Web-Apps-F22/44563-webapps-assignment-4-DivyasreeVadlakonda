@@ -1,0 +1,98 @@
+ p.song {
+    letter-spacing: 1px;
+    line-height: 1.8;
+    word-spacing: -2px;
+    text-indent: 50px;
+    font-family: 'Times New Roman';
+    font-size: 14px;
+    color: black;
+    text-align: left;
+    }
+  p.speech {
+    text-shadow: 2px 2px 5px grey;
+    letter-spacing: 1px;
+    line-height: 1.8;
+    word-spacing: -2px;
+    text-indent: 35px;
+    font-family:'Times New Roman';
+    font-size: 14px;
+    color: black;
+    text-align: left;
+}
+  p.direction:hover{
+    font-family: "Times";
+    font-size: 14px;
+    color: black;
+    text-align: left;
+    background-color: yellow;
+  
+  }
+  p.direction{
+    font-family: "Times";
+    font-size: 14px;
+    color: black;
+    text-align: left;
+    background-color: lightgreen;
+  
+  }
+  p.MEN:hover {
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 17px;
+    box-shadow: 6px 9px 13px red;
+    color: yellow;
+    background-color: cyan;
+    
+  }p.MEN {
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 17px;
+    box-shadow: 6px 9px 13px red;
+    color: black;
+    background-color: violet;
+  }
+  p.WOMEN:hover {
+    text-decoration-line: overline;
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 6px 9px 13px red;
+    color: black;
+    background-color: royalblue;
+    
+
+  }
+  p.WOMEN {
+    text-decoration-line: overline;
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 6px 9px 13px red;
+    color: black;
+    background-color: cyan;
+
+  }
+  p.CHORUS:hover{
+    font-family: Times New Roman;
+    text-align: left;
+    font-size: 17px;
+    color:green;
+    box-shadow: 6px 9px 13px red;
+    background-color: cyan;
+  }p.CHORUS{
+    font-family: Times New Roman;
+    text-align: left;
+    font-size: 17px;
+    color:green;
+    box-shadow: 6px 9px 13px red;
+    background-color: peru;
+  }
+  h2.rule {
+    letter-spacing: 1px;
+    line-height: 1.8;
+    word-spacing: -2px;
+    text-indent: 50px;
+    font-family: 'Times New Roman';
+    font-size: 14px;
+    color: brown;
+    text-align: left;
+    
+  }
